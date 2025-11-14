@@ -1,7 +1,7 @@
 # Ex.07 Restaurant Website
 ## Date: 29/04/2025
-## Name: VISHWA V
-## Reg No: 212224110062
+## Name: MOHAMED ARSHADULLAH A
+## Reg No: 212224230161
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
